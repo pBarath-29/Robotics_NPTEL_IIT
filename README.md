@@ -18,4 +18,4 @@ Week 1 covers the introduction to robots and robotics, the components that make 
 
 After finishing this week, I built a small Streamlit app to actually use these ideas instead of just reading them. It lets you look up a joint type and see its degrees of freedom, calculate a manipulator's mobility with Grubler's Criterion, figure out what kind of manipulator a robot is from its joint sequence, see what shape its workspace would take, and calculate basic performance specs like resolution and repeatability.
 
-The project is in Projects/Week_1_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-ssufpw6oeu2r2z3edrf7gt.streamlit.app/
