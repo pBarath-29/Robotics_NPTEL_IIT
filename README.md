@@ -26,4 +26,4 @@ Week 2 covers applications of robotics across manufacturing, underwater, medical
 
 For this week I built another Streamlit app to put these ideas into practice. It lets you browse robotics applications by domain, look up gripper types and designs, calculate the lift force of a vacuum gripper, build a VAL pick-and-place program, work out whether a robot purchase pays off financially, and compose translation and rotation operators into a single transformation and apply it to a point.
 
-The project is in Projects/Week_2_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-bqxwnnlegzdrfkpfbbhhfp.streamlit.app/
