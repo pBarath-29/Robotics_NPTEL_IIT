@@ -26,4 +26,12 @@ Week 2 covers applications of robotics across manufacturing, underwater, medical
 
 For this week I built another Streamlit app to put these ideas into practice. It lets you browse robotics applications by domain, look up gripper types and designs, calculate the lift force of a vacuum gripper, build a VAL pick-and-place program, work out whether a robot purchase pays off financially, and compose translation and rotation operators into a single transformation and apply it to a point.
 
-The project is in Projects/Week_2_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-bqxwnnlegzdrfkpfbbhhfp.streamlit.app/
+
+### Week 3 Project
+
+Week 3 is where the actual kinematics starts: rotation matrices and their properties, the composite rotation rule, cylindrical and spherical coordinate mapping, Roll-Pitch-Yaw and Euler angle orientation, Denavit-Hartenberg notation, and forward and inverse kinematics.
+
+For this week I built another Streamlit app to work through these ideas. It lets you check whether a matrix is a valid rotation matrix, convert cylindrical or spherical coordinates to Cartesian, build or extract Roll-Pitch-Yaw and Euler angle orientations, build a Denavit-Hartenberg table and compute forward kinematics, and solve the inverse kinematics of a 2-DoF planar arm.
+
+Access it at : 
