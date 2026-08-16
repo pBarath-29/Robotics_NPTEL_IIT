@@ -43,3 +43,11 @@ Week 4 covers the forward and inverse kinematics of a 5-DoF manipulator (the MIN
 For this week I built another Streamlit app to work through these ideas. It lets you compute the MINIMOVER's end-effector pose from its joint angles, solve for the joint angles that reach a target pose, browse two more worked DH parameter assignments, fit cubic, quintic, or parabolic-blend trajectories, and check a 2-DoF arm pose for singularities.
 
 The project is in Projects/Week_4_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+
+### Week 5 Project
+
+Week 5 is where kinematics gives way to dynamics: inertia tensors for robot links, the Lagrange-Euler formulation, the D/h/C term structure of joint torque, and a more tractable Center of Mass method for deriving the torque equations of a 2-DoF arm by hand.
+
+For this week I built another Streamlit app to work through these ideas. It lets you compute a link's inertia tensor and its center-of-mass value, browse the dynamics concepts and torque term structure, see why the trace of V*V^T gives kinetic energy, and calculate the joint torques needed to move a 2-link arm, with built-in consistency checks on the result.
+
+The project is in Projects/Week_5_Project. To run it, install the requirements with pip and then run app.py with streamlit.
