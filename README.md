@@ -35,3 +35,11 @@ Week 3 is where the actual kinematics starts: rotation matrices and their proper
 For this week I built another Streamlit app to work through these ideas. It lets you check whether a matrix is a valid rotation matrix, convert cylindrical or spherical coordinates to Cartesian, build or extract Roll-Pitch-Yaw and Euler angle orientations, build a Denavit-Hartenberg table and compute forward kinematics, and solve the inverse kinematics of a 2-DoF planar arm.
 
 Access it at : https://roboticsnpteliit-hzegrrhuzmjifxxanbxjhz.streamlit.app/
+
+### Week 4 Project
+
+Week 4 covers the forward and inverse kinematics of a 5-DoF manipulator (the MINIMOVER), two more Denavit-Hartenberg examples, trajectory planning, and Jacobians and singularities.
+
+For this week I built another Streamlit app to work through these ideas. It lets you compute the MINIMOVER's end-effector pose from its joint angles, solve for the joint angles that reach a target pose, browse two more worked DH parameter assignments, fit cubic, quintic, or parabolic-blend trajectories, and check a 2-DoF arm pose for singularities.
+
+The project is in Projects/Week_4_Project. To run it, install the requirements with pip and then run app.py with streamlit.
