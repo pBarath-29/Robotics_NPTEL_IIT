@@ -42,7 +42,7 @@ Week 4 covers the forward and inverse kinematics of a 5-DoF manipulator (the MIN
 
 For this week I built another Streamlit app to work through these ideas. It lets you compute the MINIMOVER's end-effector pose from its joint angles, solve for the joint angles that reach a target pose, browse two more worked DH parameter assignments, fit cubic, quintic, or parabolic-blend trajectories, and check a 2-DoF arm pose for singularities.
 
-The project is in Projects/Week_4_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-gpfyjmpax4zslhbvasbrz2.streamlit.app/
 
 ### Week 5 Project
 
