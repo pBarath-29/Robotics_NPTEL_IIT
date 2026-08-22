@@ -50,7 +50,7 @@ Week 5 is where kinematics gives way to dynamics: inertia tensors for robot link
 
 For this week I built another Streamlit app to work through these ideas. It lets you compute a link's inertia tensor and its center-of-mass value, browse the dynamics concepts and torque term structure, see why the trace of V*V^T gives kinetic energy, and calculate the joint torques needed to move a 2-link arm, with built-in consistency checks on the result.
 
-The project is in Projects/Week_5_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-p4behseayymudddqtukcjw.streamlit.app/
 
 ### Week 6 Project
 
