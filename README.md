@@ -66,4 +66,4 @@ Week 7 finishes robot vision (neighborhood averaging and median filtering, thres
 
 For this week I built another Streamlit app to work through these ideas. It lets you apply averaging and median filters to a small image grid, threshold and edge-detect an image with gradient/Laplacian masks, compute chain codes, signatures, and compactness for shape identification, browse a reference of the motion planning algorithms, and simulate a robot navigating to a goal around obstacles with the Potential Field Method, including the Local Minima Problem.
 
-The project is in Projects/Week_7_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-jcaz8blypxfmkqrnzdkjzf.streamlit.app/
