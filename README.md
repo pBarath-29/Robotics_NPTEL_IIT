@@ -58,7 +58,7 @@ Week 6 covers how a robot actually senses and controls itself: partitioned contr
 
 For this week I built another Streamlit app to work through these ideas. It lets you tune a PD/PID joint controller and watch it track a target angle, browse how sensors are classified, compute absolute encoder resolution and incremental encoder direction, use voltage-divider and wrist force/moment sensor calculators, compute triangulation range sensor distance, and apply a 3x3 convolution mask to a small image grid.
 
-The project is in Projects/Week_6_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+Access it at : https://roboticsnpteliit-pl5ohd4fqezkqwmo9ed3e7.streamlit.app/
 
 ### Week 7 Project
 
