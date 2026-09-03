@@ -59,3 +59,11 @@ Week 6 covers how a robot actually senses and controls itself: partitioned contr
 For this week I built another Streamlit app to work through these ideas. It lets you tune a PD/PID joint controller and watch it track a target angle, browse how sensors are classified, compute absolute encoder resolution and incremental encoder direction, use voltage-divider and wrist force/moment sensor calculators, compute triangulation range sensor distance, and apply a 3x3 convolution mask to a small image grid.
 
 The project is in Projects/Week_6_Project. To run it, install the requirements with pip and then run app.py with streamlit.
+
+### Week 7 Project
+
+Week 7 finishes robot vision (neighborhood averaging and median filtering, thresholding, edge detection, boundary descriptors) and then introduces robot motion planning: graph-based algorithms, dynamic planning, and the Potential Field Method.
+
+For this week I built another Streamlit app to work through these ideas. It lets you apply averaging and median filters to a small image grid, threshold and edge-detect an image with gradient/Laplacian masks, compute chain codes, signatures, and compactness for shape identification, browse a reference of the motion planning algorithms, and simulate a robot navigating to a goal around obstacles with the Potential Field Method, including the Local Minima Problem.
+
+The project is in Projects/Week_7_Project. To run it, install the requirements with pip and then run app.py with streamlit.
